@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yoink": {
+      "command": "npx",
+      "args": ["yoink-mcp"]
+    }
+  }
+}
